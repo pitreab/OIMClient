@@ -1,0 +1,1 @@
+OIMUtils.getEnvironment(): host: slc02qlj.us.oracle.com port: 14001
